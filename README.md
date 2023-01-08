@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is vanguoo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) vanguoo here.
 ===============================================================================================================================
 
-A backend devloper and frontend tech fan
-----------------------------------------
+I am A backend devloper and frontend tech fan
 
-I work for boss using outdated tech and work for myself with learning by doing **using cooool tech stack** !
+I work for boss using outdated tech :shit:
+
+but work for myself with learning by doing :sparkles: **using cooool tech for cooool projects!** :sparkles:
 
 *   🌍  I'm based in Changsha,China
 *   ✉️  You can contact me at [guowang939@gmail.com](mailto:guowang939@gmail.com)
 *   🚀  I'm currently working on [a hugo theme](http://github.com/vanguoo/vgo)
-*   🧠  I'm learning JavaScript | TailwindCSS | \
+*   🧠  I'm learning JavaScript | TailwindCSS | ...
 
 Skills 
 
@@ -24,5 +25,5 @@ Skills
 </p>
                     
 Socials
-                  
-<p align="left"><a href="https://www.github.com/vanguoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://vanguo.tech/atom.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a><a href="https://www.twitter.com/vanguoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.twitter.com/vanguoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
